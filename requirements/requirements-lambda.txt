@@ -1,0 +1,8 @@
+# Minimal requirements for AWS Lambda functions
+# Keep Lambda deployment package under 50MB
+
+boto3==1.34.34
+pandas==2.1.4
+numpy==1.26.2
+joblib==1.3.2
+python-dateutil==2.8.2
