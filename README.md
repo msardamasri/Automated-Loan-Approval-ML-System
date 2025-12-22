@@ -5,7 +5,7 @@
 [![ML](https://img.shields.io/badge/ML-Random%20Forest-green.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-End-to-end serverless machine learning pipeline for automated loan approval decisions using AWS services and Random Forest classification.
+End-to-end serverless machine learning pipeline for automated loan approval decisions using AWS services and Random Forest classification. I encourage you to explore the notebooks/loan_approval_analysis.ipynb notebook to understand the complete decision-making process, feature engineering rationale, and model selection considerations behind this implementation.
 
 ## Business Case
 
