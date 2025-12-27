@@ -1,28 +1,19 @@
 # Automated Loan Approval ML System
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![AWS](https://img.shields.io/badge/AWS-Lambda%20%7C%20S3%20%7C%20DynamoDB-orange.svg)](https://aws.amazon.com/)
 [![ML](https://img.shields.io/badge/ML-Random%20Forest-green.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-End-to-end serverless machine learning pipeline for automated loan approval decisions using AWS services and Random Forest classification.
+End-to-end serverless machine learning pipeline for automated loan approval decisions using AWS services and Random Forest classification. I encourage you to explore the **notebooks/loan_approval_analysis.ipynb** notebook to understand the complete decision-making process, feature engineering rationale, and model selection considerations behind this implementation.
 
 ## Business Case
 
 ### Problem Statement
-Manual loan approval is a time-consuming process that creates bottlenecks in financial institutions. Each application requires human review, leading to:
-- **Long processing times**
-- **Inconsistent decisions due to bias**
-- **High operational costs**
-- **Delayed responses**
+Manual loan approval processes create significant operational bottlenecks in financial institutions, with each application requiring time-consuming human review that leads to long processing times, inconsistent decisions due to human bias, high operational costs, and delayed customer responses.
 
 ### Solution
-Automated ML-powered loan approval system that:
-- **Instant decisions** for 70%+ of applications
-- **90.46% precision** matching historical bank decisions
-- **Consistent criteria** eliminating human bias
-- **Cost reduction** in processing expenses
-- **24/7 availability** for real-time approvals
+This ML-powered automated loan approval system delivers instant decisions with 90.46% precision, eliminating human bias through consistent criteria while reducing processing costs and enabling 24/7 real-time approvals that match historical bank decision-making standards.
 
 ---
 
