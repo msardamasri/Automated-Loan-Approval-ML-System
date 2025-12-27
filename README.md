@@ -55,6 +55,8 @@ Automated ML-powered loan approval system that:
 
 ## Model Performance
 
+![Model performance](docs/cm-model.png)
+
 | Metric | Value | Description |
 |--------|-------|-------------|
 | **Precision** | 90.46% | When model predicts approval, it matches bank decision 90.46% of time |
